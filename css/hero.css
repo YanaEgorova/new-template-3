@@ -1,0 +1,7 @@
+.hero__wrapper {
+    background-image: url('../img/bg.jpg');
+    background-position: center;
+}
+.hero {
+    padding: 20rem 0;
+}
